@@ -1,6 +1,6 @@
 # Custom Window Border Color
 
-This mod allows you to set custom colors for window borders in Windows 11
+This mod for Windhawk allows you to set custom colors for window borders in Windows 11
 without affecting the titlebar color or using the accent color.
 
 ## Settings
